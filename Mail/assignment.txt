@@ -1,0 +1,9 @@
+Exercise: Mail
+repository: js-mail-dadi
+
+Chiedi all’utente la sua email,
+controlla che sia nella lista di chi può accedere,
+stampa un messaggio appropriato sull’esito del controllo.
+
+TIPS:
+Iniziate dalla parte base, se tutto funziona passiamo a fare dei check su casi limite, fatto questo passiamo a vedere se esistono dei metodi di JS che possono aiutarci.
